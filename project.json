@@ -4,6 +4,7 @@
   "description": "Visualize data from Excel with ScottPlot",
   "main": "Main.xaml",
   "dependencies": {
+    "ScottPlot": "[5.0.15]",
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
     "UiPath.System.Activities": "[23.10.3]",
